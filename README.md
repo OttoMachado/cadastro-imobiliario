@@ -1,6 +1,6 @@
 # Cadastro Imobiliário
 
-Sistema de cadastro de pessoas e imóveis, desenvolvido em **PHP** com banco de dados **MySQL**, rodando localmente no **XAMPP**. O projeto inclui telas de login, listagem, criação, edição e exclusão de pessoas e imóveis, com CSS estilizado.
+Sistema de cadastro de pessoas e imóveis, desenvolvido em **PHP** com banco de dados **MySQL**, rodando localmente no **XAMPP**. O projeto inclui telas de login, listagem, busca, criação, edição e exclusão de pessoas e imóveis, com CSS estilizado.
 
 ---
 
