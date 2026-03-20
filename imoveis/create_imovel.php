@@ -75,7 +75,7 @@ if (isset($_POST['cadastrar'])) {
 
 </form>
 
-<a href="list_imovel.php">Voltar</a>
+<a href="list_imoveis.php">Voltar</a>
 
 </div>
 </div>
