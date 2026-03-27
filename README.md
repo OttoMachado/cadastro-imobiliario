@@ -31,10 +31,11 @@ cadastro-imobiliario/
 
 ## ⚙️ Como rodar o projeto
 
-1. Instale o [XAMPP](https://www.apachefriends.org/pt_br/index.html) no seu computador.  
-2. Copie a pasta `cadastro-imobiliario` para dentro de `C:\xampp\htdocs\`.  
-3. Abra o **XAMPP Control Panel** e inicie **Apache** e **MySQL**.  
-4. Abra o navegador e acesse: http://localhost/cadastro-imobiliario/login.php 
+1. Abra o Git Bash ou Cmd e execute o comando: git clone https://github.com/OttoMachado/cadastro-imobiliario.git
+2. Instale o [XAMPP](https://www.apachefriends.org/pt_br/index.html) no seu computador.  
+3. Copie a pasta `cadastro-imobiliario` para dentro de `C:\xampp\htdocs\`.  
+4. Abra o **XAMPP Control Panel** e inicie **Apache** e **MySQL**.  
+5. Abra o navegador e acesse: http://localhost/cadastro-imobiliario/login.php 
 
 ---
 
